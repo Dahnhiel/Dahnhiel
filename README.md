@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Dahnhiel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Dahnhiel 👋
 
-<!---
-Dahnhiel/Dahnhiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate web developer focused on creating engaging and dynamic web experiences.
+
+## About Me
+
+- 🔭 **I’m currently learning:** *Python*  
+- 🌱 **My Interests:** Web development, UI/UX design, and building accessible, responsive websites.  
+- 💞️ **I’m looking to collaborate on:** Exciting web projects, open-source initiatives, or any innovative ideas that involve modern web technologies.  
+- 📫 **How to reach me:**  
+  - Email: dannyfrosh71@gmail.com 
+
+## Skills & Technologies
+
+- **Languages:** HTML, CSS, JavaScript, PHP, *python*.
+- **Frameworks & Libraries:** Laravel, Node.js, React.
+- **Tools:** Git, GitHub, etc.
+
+
+Feel free to explore my repositories and reach out if you think we can collaborate on something awesome!
